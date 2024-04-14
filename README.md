@@ -1,6 +1,8 @@
 Title : Zee5 Clone 
 The task involves recreating the design and functionality of an Over-The-Top (OTT) platform website like Netflix, Amazon Prime, or Zee5 using HTML, CSS, and JavaScript.
 
+Netlify Link : https://ott-platform-clone.netlify.app
+
 Technologies Used : 
 HTML5
 CSS3,
